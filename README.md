@@ -20,11 +20,11 @@
     <meta property="fb:app_id" content="1401488693436528">
 
       <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="Thapz123/Blog" name="twitter:title" /><meta content="My Blog built with Parse.js" name="twitter:description" /><meta content="https://avatars2.githubusercontent.com/u/11194278?v=3&amp;s=400" name="twitter:image:src" />
-      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars2.githubusercontent.com/u/11194278?v=3&amp;s=400" property="og:image" /><meta content="Thapz123/Blog" property="og:title" /><meta content="https://github.com/Thapz123/Blog" property="og:url" /><meta content="My First Blog built with Parse.js" property="og:description" />
+      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars2.githubusercontent.com/u/11194278?v=3&amp;s=400" property="og:image" /><meta content="Thapz123/Blog" property="og:title" /><meta content="https://github.com/Thapz123/Blog" property="og:url" /><meta content="My Blog built with Parse.js" property="og:description" />
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTExOTQyNzg6YTdkZTBhZjQ0NWRlZmI1ODdhYjRjNGQ2MmJkZGY0M2U6MDgwMDQyZjAxOGRkMDM3MDAyZmRiMDI1MWI0YTlmMDZhNzYxMjI5MWQyOWQ2YTA4ZjIxZTNhNTY2MzAyOGI2OQ==--2fbc6a695176bdc9d7da72a1342a3bea41926c68">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTExOTQyNzg6YTdkZTBhZjQ0NWRlZmI1ODdhYjRjNGQ2MmJkZGY0M2U6ODg3NGM5ZTM0N2U0MTkyOGQxZGU1YThmOTdlMjU5N2YyYzJlNGE4ODM4Y2E5MzZmMzdlNTRjNDBkMGYwY2UwNQ==--c94df4d779a69e6a5f32e30a967a2febd94806d4">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -34,7 +34,7 @@
 
         <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="C559B3E2:3D4B:545A5A7:55CE452C" name="octolytics-dimension-request_id" /><meta content="11194278" name="octolytics-actor-id" /><meta content="Thapz123" name="octolytics-actor-login" /><meta content="30851ccb189e846c076e294aab00b438689af8e817c7b1714e10243be3ba8d5b" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="C559B3E2:7C7A:3396596:55CE463A" name="octolytics-dimension-request_id" /><meta content="11194278" name="octolytics-actor-id" /><meta content="Thapz123" name="octolytics-actor-login" /><meta content="30851ccb189e846c076e294aab00b438689af8e817c7b1714e10243be3ba8d5b" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
     <meta class="js-ga-set" name="dimension1" content="Logged In">
@@ -48,7 +48,7 @@
       <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
 
     <!-- </textarea> --><!-- '"` --><meta content="authenticity_token" name="csrf-param" />
-<meta content="T8x3ymcW/SY1BY1gBTu1z/za4YLeuB2Z1onX94RQR7Wj2jFvCzR1xneB6hjM1WPVuY3YwU2ZG7RsuH2TqzGcRQ==" name="csrf-token" />
+<meta content="K9viT3+9i8aH+/IHkIFsBHjw8MOEe0ydKuvaHrPcUKhtNW4E1/duPKqpz4JPZyMepjLD3v9HM2DAKZUyeWHfJA==" name="csrf-token" />
     
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github/index-78350b39bf13714f4b06a2153e5374de01bc939bfa60ec9bdb34dbb2032dda4b.css" media="all" rel="stylesheet" />
@@ -201,7 +201,7 @@
           Settings
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="T+xBuDsZYZmBFO4ZhxkslwoBHk3nLa1rjZb8QrSjXG1KguaV4pOUZQsg3jwz7mum17qkOJwk6M0GNWT0bh80Zg==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+7hBY3jWRuQStA5CAWdkxjtbejamOVkeqeU9MLW1TjBXyDEob+S5vJ3q5mtlQPkSq35aSe5yPv/a32TSbQFvvw==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -233,7 +233,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4QDn2qLnsdU8rwkahxPdDUSL4RPnWBtLtP1bBka2rS/VicWRyGGyqX5PzZRRTAoGzVnNGxdbtGX2Q2etiol5mQ==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="40612371" />
+      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YHTGsWBE5U9DA8OPuDUwMmDIFTtbzi+QTOdUzlpnwEA0bHM1kl3Zgtrlp7RdflYaifQzaTyd7FgDU2v1xYmoXw==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="40612371" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/Thapz123/Blog/subscription"
@@ -308,7 +308,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ICC1qCW+tvZTAlhHwQv1pJerxxfNvsE00VS+yjSky0jE00AeYLD/ihaK4hsQp1Avnbr1s9sOTf/mWvtHefqnfA==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Z2uEZ1ONWIgtcE9cWXnx0NW/Dpx3CXlcWb0mDYG8/TBwBllt3/l7ucAOvJIAYIwLuOOzcc10+9NgM78Xf/fH2w==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar Thapz123/Blog"
@@ -320,7 +320,7 @@
           0
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Myacy0jXGjxrWooKIGkIX/td4ElHDvslSibdTQT6h/AxSiK8mpeKGuT8g+5b78GC7zJxmg4i8yfixBDqWa3nbA==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/AfTGNF8xP9kT6KogZmNxrmorveA8PTFzsI7JLPJShKozhUDn2F2NLidWz9wRhYCvd0beW/bJy9Q2jxLKWUftw==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star Thapz123/Blog"
@@ -336,7 +336,7 @@
   </li>
 
         <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/fork" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FG03TbkUTgDX879BCowjYOV+O/IlUHcaITPZd0t01PmG3eOe88u4iPl1A524YDqltgf0Vkfl/1VWt4lcdpj/Lw==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/fork" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5bfMQ8jjKcJRYeMaEwptXDJFtHg2EsMgKRz8laio1hIyh2WXx5SrHwuuzcXsYTgjssO+AlLvDRr4Sl/kWhezMw==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -473,7 +473,7 @@
 
 
   <div class="clone-options">You can clone with
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="RK3Ufn7b2r7h4+qkUEKujIsn06AMpMCmXXLH5RtHdmC4FPz3LOJhh19nms1pxAB9aZ2CtHd9iSak2GmxULBZPg==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XQwGTObyIhn7Fnf3gbXK9MFGVVaRIZ2ibu//+mhceNANv+sp490GOCFcCBaniMXpNttM9B/3JHBsylI3mq9bZQ==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gDD+hJlraxQMaoeMh03GuIIIKA+dl2CObiK/JLuCi4wH41dhv/TRuXN/LwbKNYyzDGdjGcmNilZ9qpZ9Gjc0vA==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jzin4En9o3gHlc1W8mx9mcCDCvrdWHJLU/XFhT6x7Nw5Ga/WQwy36y0h2R036dEPuYmOxB/FufYtwfJRLRMRsw==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Y9LBpSw8hgyRCHI1o9+RDKa9ODb2vPWVL4+SP9d7qwIa0miK3/jkrS6iC486YA/C8tpFnGN4/eb8L+SiKT592Q==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="aY7FTspKmU/OWeaNPos1fCwrdhFkVNF/vYVWNc0j2mZwHmgrS2ML7BpLD+N33YWUeeZnlv6TX7URe6UjHvqnSw==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
     <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
       <span class="octicon octicon-question"></span>
     </a>
@@ -563,7 +563,7 @@
             </a>
         </div>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="D5X0bopQtP9skKgpKdlc9ljqbW7sopPBHOPqHCf+tMEw2qkyfIG0UPcG/9omFVGQbq+j3KF0nsDi9ZfVvWdFWw==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ga5SS6P0fvWi5KUEiFusYco1meC+AQkPJzrx4O3zf5xur6tAeA+XAbV7FQNyH21fpFXLGZ6v7Ce7aWdt5LIcmg==" /></div>
             <span class="octicon octicon-git-branch select-menu-item-icon"></span>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -631,12 +631,12 @@
             <span class="octicon octicon-desktop-download"></span>
         </a>
 
-            <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/edit/master/README.md" class="inline-form" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bjPq+ic46tvS0/FaHk+GcU5+tzJxXXPAHVr8cmRVklposXQD/6oIZw9uhUHeHvPAdR1kn6WzdynLT9X92prMEA==" /></div>
+            <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/edit/master/README.md" class="inline-form" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Tsh+Jw29WxfLu9iNH3LaJ766X2FqdAbY2HlW7IIxM+j09T79rSD3x1EHsU1hbEWoQ6YI498xzdC5LZMAeLeJKw==" /></div>
               <button class="octicon-btn tooltipped tooltipped-n" type="submit" aria-label="Edit this file" data-hotkey="e" data-disable-with>
                 <span class="octicon octicon-pencil"></span>
               </button>
 </form>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/delete/master/README.md" class="inline-form" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LUqCZnGBN4FcYaBgBFso0jtkuv1XhkbclpiWSdOlPlkKPAEKy3n/ODbZzYY/dSz4ZW9jkcATyoNQEtDoMt9+8g==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Thapz123/Blog/delete/master/README.md" class="inline-form" data-form-nonce="b8d1afbd28b5f03527dc91d3986e03960a63ab77" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TNcm12NWLPvoZAkOScTXWqZnSv2FBrlW2Ny62L0Xe8U4HAoAGcmIhSINdgfsTlKPm6SgdOOCS2VR5tyBWPzr3A==" /></div>
             <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-n" type="submit" aria-label="Delete this file" data-disable-with>
               <span class="octicon octicon-trashcan"></span>
             </button>
@@ -691,7 +691,7 @@
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.07142s from github-fe133-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.05772s from github-fe126-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
