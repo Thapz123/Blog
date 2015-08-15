@@ -20,7 +20,7 @@
     <meta property="fb:app_id" content="1401488693436528">
 
       <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="Thapz123/Blog" name="twitter:title" /><meta content="My Blog built with Parse.js" name="twitter:description" /><meta content="https://avatars2.githubusercontent.com/u/11194278?v=3&amp;s=400" name="twitter:image:src" />
-      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars2.githubusercontent.com/u/11194278?v=3&amp;s=400" property="og:image" /><meta content="Thapz123/Blog" property="og:title" /><meta content="https://github.com/Thapz123/Blog" property="og:url" /><meta content="My Blog built with Parse.js" property="og:description" />
+      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars2.githubusercontent.com/u/11194278?v=3&amp;s=400" property="og:image" /><meta content="Thapz123/Blog" property="og:title" /><meta content="https://github.com/Thapz123/Blog" property="og:url" /><meta content="My First Blog built with Parse.js" property="og:description" />
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
